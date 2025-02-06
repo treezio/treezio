@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/treezio/treezio/main/wave.gif" width="30px" height="30px" />
 
-My name is Luis Fernandez and I'm currently working as Platform Engineer @ [seQura Tech](https://github.com/sequra).
+My name is Luis Fernández and I'm currently working as Platform Engineer @ [seQura Tech](https://github.com/sequra).
 
 I enjoy collecting and playing vinyl records!
 
