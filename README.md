@@ -1,8 +1,10 @@
 ## Hi there <img src="https://raw.githubusercontent.com/treezio/treezio/main/wave.gif" width="30px" height="30px" />
 
-[![Header](https://raw.githubusercontent.com/treezio/treezio/main/mixer.jpg "Header")]
-
 My name is Luis Fernandez and I'm currently working as Platform Engineer @ [seQura Tech](https://github.com/sequra).
+
+I enjoy collecting and playing vinyl records!
+
+![Header](https://raw.githubusercontent.com/treezio/treezio/main/mixer.jpg "Header")
 
 ## :hammer_and_wrench: Tooling Stack
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
