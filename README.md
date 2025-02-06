@@ -4,7 +4,9 @@ My name is Luis Fernández and I'm currently working as Platform Engineer @ [seQ
 
 I enjoy collecting and playing vinyl records!
 
-![Header](https://raw.githubusercontent.com/treezio/treezio/main/mixer.jpg "Header")
+<p align="center">
+    <img width="500" src="https://raw.githubusercontent.com/treezio/treezio/main/mixer.jpg" alt="mixer" />
+</p>
 
 ## :hammer_and_wrench: Tooling Stack
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
