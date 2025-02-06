@@ -19,6 +19,7 @@ I enjoy collecting and playing vinyl records!
 ![](https://img.shields.io/badge/Grafana-informational?style=flat&logo=grafana&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/OpenTelemetry-informational?style=flat&logo=opentelemetry&logoColor=yellow&color=blue)
 ![](https://img.shields.io/badge/Actions-informational?style=flat&logo=github&logoColor=white&color=black)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon&logoColor=black&color=yellow)
 
 ## :book: Learning
 ![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=red)
