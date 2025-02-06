@@ -19,6 +19,6 @@ I enjoy collecting and playing vinyl records!
 ## :book: Learning
 ![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Rails-informational?style=flat&logo=ruby-on-rails&logoColor=red&color=white)
-##  Blog
+## :pencil2: Blog
 
 I also write some stuff on [Medium](https://medium.com/@treezio)
