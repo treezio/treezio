@@ -15,6 +15,10 @@ I enjoy collecting and playing vinyl records!
 ![](https://img.shields.io/badge/python-informational?style=flat&logo=python&logoColor=white&color=green)
 ![](https://img.shields.io/badge/ArgoCD-informational?style=flat&logo=argo&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/helm-informational?style=flat&logo=helm&logoColor=white&color=cyan)
+![](https://img.shields.io/badge/Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=red)
+![](https://img.shields.io/badge/Grafana-informational?style=flat&logo=grafana&logoColor=white&color=orange)
+![](https://img.shields.io/badge/OpenTelemetry-informational?style=flat&logo=opentelemetry&logoColor=yellow&color=blue)
+![](https://img.shields.io/badge/Actions-informational?style=flat&logo=github&logoColor=white&color=black)
 
 ## :book: Learning
 ![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=red)
