@@ -1,31 +1,45 @@
-## Hi there <img src="https://raw.githubusercontent.com/treezio/treezio/main/wave.gif" width="30px" height="30px" />
-
-My name is Luis Fernández and I'm currently working as **Platform Engineer @ [seQura Tech](https://github.com/sequra)**.
-
-I'm actively working on **[DriftHound](https://drifthound.io/)**, a platform to monitor infrastructure drift for Terraform, OpenTofu, and Terragrunt.
-
-Outside of work, I enjoy collecting and playing vinyl records 🎶
+<h2 align="center">Hi there, I'm Luis <img src="https://raw.githubusercontent.com/treezio/treezio/main/wave.gif" width="30px" height="30px" /></h2>
 
 <p align="center">
-    <img width="500" src="https://raw.githubusercontent.com/treezio/treezio/main/mixer.jpg" alt="mixer" />
+  Platform Engineer @ <a href="https://github.com/sequra">seQura Tech</a> · building <a href="https://drifthound.io/">DriftHound</a> · digging for records 🎶
 </p>
 
-## :hammer_and_wrench: Tooling Stack
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=navy)
-![](https://img.shields.io/badge/terraform-informational?style=flat&logo=terraform&logoColor=white&color=purple)
-![](https://img.shields.io/badge/python-informational?style=flat&logo=python&logoColor=white&color=green)
-![](https://img.shields.io/badge/ArgoCD-informational?style=flat&logo=argo&logoColor=white&color=orange)
-![](https://img.shields.io/badge/helm-informational?style=flat&logo=helm&logoColor=white&color=cyan)
-![](https://img.shields.io/badge/Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=red)
-![](https://img.shields.io/badge/Grafana-informational?style=flat&logo=grafana&logoColor=white&color=orange)
-![](https://img.shields.io/badge/OpenTelemetry-informational?style=flat&logo=opentelemetry&logoColor=yellow&color=blue)
-![](https://img.shields.io/badge/Actions-informational?style=flat&logo=github&logoColor=white&color=black)
-![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon&logoColor=black&color=yellow)
+<p align="center">
+  <a href="https://drifthound.io/"><img src="https://img.shields.io/badge/DriftHound-drifthound.io-5b21b6?style=flat" alt="DriftHound" /></a>
+  <a href="https://medium.com/@treezio"><img src="https://img.shields.io/badge/Medium-@treezio-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
 
-## :book: Learning
-![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=red)
-![](https://img.shields.io/badge/Rails-informational?style=flat&logo=ruby-on-rails&logoColor=red&color=white)
-## :pencil2: Blog
+<p align="center">
+  <img width="520" src="https://raw.githubusercontent.com/treezio/treezio/main/dj-cabinet.jpg"/>
+</p>
 
-I also write some stuff on [Medium](https://medium.com/@treezio)
+### :rocket: What I'm up to
+
+- **Platform Engineering at seQura**: Kubernetes, Terraform and the GitOps plumbing that keeps it all shipping.
+- **[DriftHound](https://drifthound.io/)**: a platform to monitor infrastructure drift for Terraform, OpenTofu and Terragrunt.
+- **Off the clock**: collecting and playing vinyl records.
+
+### :hammer_and_wrench: Tooling Stack
+
+| | |
+|:--|:--|
+| **Cloud & IaC** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" title="AWS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/terraform/terraform-original.svg" height="40" title="Terraform" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" height="40" title="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/kubernetes/kubernetes-original.svg" height="40" title="Kubernetes" /> |
+| **Delivery** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/helm/helm-original.svg" height="40" title="Helm" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/argocd/argocd-original.svg" height="40" title="Argo CD" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" height="40" title="GitHub Actions" /> |
+| **Observability** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/prometheus/prometheus-original.svg" height="40" title="Prometheus" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/grafana/grafana-original.svg" height="40" title="Grafana" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/opentelemetry/opentelemetry-original.svg" height="40" title="OpenTelemetry" /> |
+| **Code** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" height="40" title="Python" /> |
+| **Learning** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/ruby/ruby-original.svg" height="40" title="Ruby" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/rails/rails-plain.svg" height="40" title="Rails" /> |
+
+### :bar_chart: Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=treezio&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=treezio&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=treezio&hide_border=true&theme=tokyonight" alt="Contribution streak" />
+</p>
+
+### :pencil2: Blog
+
+I write about platform stuff on [Medium](https://medium.com/@treezio).
