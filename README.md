@@ -33,12 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/grafana/grafana-original.svg" height="40" alt="Grafana" title="Grafana" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/opentelemetry/opentelemetry-original.svg" height="40" alt="OpenTelemetry" title="OpenTelemetry" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-</p>
-
-<p align="center">
-  <sub><i>currently learning</i></sub>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/ruby/ruby-original.svg" height="24" alt="Ruby" title="Ruby" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/rails/rails-plain.svg" height="24" alt="Rails" title="Rails" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/ruby/ruby-original.svg" height="40" alt="Ruby" title="Ruby" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/rails/rails-plain.svg" height="40" alt="Rails" title="Rails" />
 </p>
 
 ### :bar_chart: Stats
